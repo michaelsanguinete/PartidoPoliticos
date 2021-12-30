@@ -1,0 +1,7 @@
+package com.compass.sprint4.entity;
+
+public enum CargoEnum {
+	
+	VEREADOR, PREFEITO, DEPUTADO_ESTADUAL, DEPUTADO_FEDERAL, SENADOR, GOVERNADOR, PRESIDENTE, NENHUM
+
+}
